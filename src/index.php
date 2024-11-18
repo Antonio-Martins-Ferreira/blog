@@ -32,6 +32,9 @@ $connexion = null;
         hx-target="#form_ajout_article"
         hx-swap="outerHTML"
         >Ajouter un article</a>
+        
+        <a href="add_fake_data.php">Ajouter de fausses données</a>
+
     </header>
     <section id="form_ajout_article"></section>
 
